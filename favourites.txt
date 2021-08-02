@@ -1,1 +1,3 @@
+Colour: Pink
 Fruit: Watermelon
+Vegetable: pfffttt!
