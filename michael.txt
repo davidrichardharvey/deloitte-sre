@@ -1,1 +1,1 @@
-RandomText is a tool designers and developers can use to quickly grab dummy text in either Lorem Ipsum or Gibberish format.
+RRandomText is a tool designers and developers can use to quickly grab dummy text in either Lorem Ipsum or Gibberish format.
