@@ -1,1 +1,1 @@
-Hello everybody!
+Git branching allows developers to diverge from the production version of code to fix a bug or add a feature.
